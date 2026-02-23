@@ -5,6 +5,8 @@
 An end-to-end ELT data pipeline built on Databricks that processes Walmart grocery sales data using the Medallion Architecture (Bronze → Silver → Gold). The pipeline ingests raw sales and store-level economic data from multiple sources, merges and cleans the data through structured layers, and produces business-ready aggregated insights stored as Delta Lake tables.
 
 built with PySpark and Delta Lake to demonstrate scalable data engineering practices on a lakehouse platform.
+### Project Link:
+https://dbc-d988a6ab-f63d.cloud.databricks.com/browse/folders/3448573716625273?o=7474652951866494
 
 ## What This Project Does
 
