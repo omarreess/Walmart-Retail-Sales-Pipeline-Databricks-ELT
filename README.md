@@ -1,4 +1,4 @@
-# Walmart Retail Sales Pipeline — Medallion Architecture ELT
+# Walmart Retail Sales Pipeline — Medallion Architecture  
 
 ## Description
 
