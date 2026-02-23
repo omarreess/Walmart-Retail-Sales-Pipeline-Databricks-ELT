@@ -30,6 +30,8 @@ extra_data.parquet ──→ bronze_extra_data ────┘
 ```
 
 ## Medallion Layers
+<img width="386" height="439" alt="Screenshot 2026-02-23 at 7 33 12 AM" src="https://github.com/user-attachments/assets/456988b9-c84a-4fda-b6e2-c1da788f61d4" />
+
 
 | Layer | Table | Rows | Description |
 |-------|-------|------|-------------|
