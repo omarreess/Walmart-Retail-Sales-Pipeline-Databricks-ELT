@@ -21,6 +21,7 @@ https://dbc-d988a6ab-f63d.cloud.databricks.com/browse/folders/3448573716625273?o
 - **Delta Lake** — ACID-compliant lakehouse storage format
 - **Databricks Community Edition** — cloud compute platform
 - **Medallion Architecture** — Bronze / Silver / Gold data organization pattern
+<img width="1240" height="629" alt="Screenshot 2026-02-23 at 8 08 54 AM" src="https://github.com/user-attachments/assets/b98eec68-e0a3-4bd0-b187-1c6ab0fa7b5a" />
 
 ## Data Flow
 
